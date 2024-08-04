@@ -1,0 +1,127 @@
+*{ margin: 0%;font-family: sans-serif;}
+body{
+}
+
+.navbar{ background-color: white;
+     color: black;
+      width: 100%;
+      height: 60px;
+      display:flex
+}
+.logo{  margin-left: 5%; margin-top: 10px ;
+}
+
+.prod{ margin-left: 10%; margin-top: 10px;
+
+}
+.prod ul li{ display: inline-block; 
+    margin: 10px; 
+     font-weight: 600;
+}
+.number { margin-left: 20% ; margin-top: 20px;
+ }
+/* 
+second part start here */
+
+.banner{ background-image: url(creative\ solution.jpg);
+    background-size: cover;
+     width: 100%;height:200px;text-align: center; 
+     color: aliceblue;padding-top: 20%; 
+     text-shadow: 1px 1px 0px black ;
+    }
+.secbanner{display:  flex;
+}
+.secbanner h4{ 
+    padding: 40px;
+     color: #41C8F5;
+
+}
+ .tagone{ margin-top: 40px; margin-left: 100px; 
+    }
+    .tagone h4{ text-align: center;}
+.tagone i {
+    color: azure; 
+     text-align: left;
+    } 
+    /* .tagone { width: 100px;height: 100px; border-radius: 50%; 
+    background-color: aqua;
+margin-left: 20px; */
+ 
+ 
+ .tagone span img {  padding-left: 40px; margin-left: 40px;
+}
+
+
+
+
+    /* section three start here */
+.section-three{background-color:#E5E5E5;
+    height:900px; 
+   margin-top: 40px;
+}
+.sec-two{ 
+    display: flex;
+}
+.sec-one{ padding-top: 80px; padding-left: 80px; margin-right: 100px;
+}
+.sec-one H1 {  padding-top: 20px; padding-bottom: 20px;
+}
+.sec-one button{ padding: 10px; margin-top: 30px; 
+    padding-left: 40px; 
+    padding-right: 40px;
+}
+
+.picture{background-image: url(ZqXDam-laptops-png-images-notebook-png-image-laptop.png);
+     background-size: cover; width: 100%; height: 18rem; margin-top: 50px; margin-right: 40px;;
+}
+.sec-one p { text-align: left;
+}
+.section-four{ margin-top: 50px;
+     margin-left: 70px; display: flex; 
+    text-align: center; 
+    background-color: white;
+    width: 90%;
+     
+     height: 350px;
+
+}
+.section-afour{
+    margin-top: 30px;
+}
+
+
+.secton-five{ background-color: black;
+     width:400px; margin-left: 100px;
+    height: 350px;
+
+    COLOR: white;
+
+    text-align: center;
+    
+    
+
+}
+ /* third part start here */
+
+ .news h3 { margin: 30px;
+}
+
+ .news{display: flex;
+ }
+ #lat{ margin-left: 50px; margin-right: 10px;
+}
+.news #lat h3{ padding: 0%;
+
+}
+#HEAD{ margin-top: 50px; margin-bottom: 20px;
+}
+#lat p { text-align: left; 
+}
+#lat-two{ margin-left: 30px;
+}
+#lat-three{ margin-left: 30px;}
+#lat-two span{ display: flex;
+}
+#blue{ color: #41C8F5; font-weight:500
+} 
+
